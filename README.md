@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kawikathepancake
-- 👀 I’m interested in ... python, C++, design patterns, networking, saving off profile files
+- 👀 I’m interested in ... python, C++, design patterns, networking, saving off config files
 
 
 <!---
